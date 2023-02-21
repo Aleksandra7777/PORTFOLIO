@@ -2,6 +2,8 @@
 
 **About me**
 
+My name is Aleksandra Fujak. I work as a clerk. I deal with people every day. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. And finally changed jobs.
+
 **Courses**
 
 Challenge porfolio - QA Manual Testing ('Zostań testerem manualnym') - DARE IT
